@@ -3,6 +3,4 @@
 - 📫 How to reach me: https://www.facebook.com/vanhoang0802
 
 
-"Code tốt, code siêu là code đơn giản, dễ sửa, dễ bảo trì và giải quyết được yêu cầu, đem lại được giá trị cho người dùng." 
-
-                                                                                                  - Sensei Phạm Huy Hoàng.
+"Code tốt, code siêu là code đơn giản, dễ sửa, dễ bảo trì và giải quyết được yêu cầu, đem lại được giá trị cho người dùng."

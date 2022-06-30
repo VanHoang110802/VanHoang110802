@@ -12,9 +12,6 @@
 - 🌱 I’m currently learning: C/C++/JAVA/C#.
 
 
-- 📫 How to reach me: https://www.facebook.com/vanhoang0802
-
-
 ## 📫 How to reach me:
 
 [![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -23,7 +20,7 @@
   <a href="https://linkedin.com/in/tien-nhm" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href="https://www.facebook.com/01.tien" alt="Facebook">
+  <a href="https://www.facebook.com/vanhoang0802" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
   <a href="https://github.com/TienNHM" alt="Github">

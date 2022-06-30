@@ -8,8 +8,6 @@
 
 ## 📫 How to reach me:
 
-[![Join the chat at https://gitter.im/VanHoang110802/Github-Profile-Tutorial](https://badges.gitter.im/VanHoang110802/Github-Profile-Tutorial.svg)](https://gitter.im/VanHoang110802/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 <p align="center">
   <a href="https://www.facebook.com/vanhoang0802" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />

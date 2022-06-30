@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I’m Van Hoang</h1>
-<h3 align="center">A developer from Vietnam </h3>
+<h3 align="center">A Software developer from Vietnam </h3>
 
 
 - 🌱 I’m currently learning: C/C++/JAVA/C#.

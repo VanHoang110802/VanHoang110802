@@ -7,6 +7,7 @@
 
 ## Learning Languages 🌐
 <p align="center">
+<img src="https://img.icons8.com/dotty/80/000000/pas.png"/>
 <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>

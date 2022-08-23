@@ -25,19 +25,6 @@
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 </p>
 
-<table style="width:100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanHoang110802&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Most%20Used%20Languages:" alt="VanHoang110802" width="101%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=VanHoang110802&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=VanHoang%20GitHub%20Start:" alt="VanHoang110802" width="100%"/>
-    </td>
-    <td>
-      <p align="center"> 
-        <img src="https://i.imgur.com/MvMxQ1a.gif" alt="dev" width="100%"/>
-      </p>
-    </td>
-  </tr>
-</table>
 
 
 ## How to reach me 📫:

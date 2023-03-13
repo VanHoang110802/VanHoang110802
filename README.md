@@ -17,7 +17,6 @@
 
 ## Tools 🛠️:
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
   <img src="https://img.icons8.com/ios-filled/48/000000/java-eclipse.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>

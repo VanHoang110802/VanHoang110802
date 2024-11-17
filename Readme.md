@@ -1,7 +1,7 @@
 ```
 Xin chào! Mình tên là Trương Văn Hoàng. Mình đến từ Việt Nam. Và đây là trang github cá nhân của mình.
 Hello! My name is Truong Van Hoang. I'm from Vietnam. This is my personal GitHub page.
-你好！我叫张文煌。我来自越南。这是我的个人GitHub页面。
+你好！我叫张文煌。我来自越南。这是我的个人 GitHub 页面。(你好！我叫張文煌。我來自越南。這是我的個人 GitHub 頁面。)
 ```
 
 <p align="center">

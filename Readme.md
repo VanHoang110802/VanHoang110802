@@ -1,8 +1,8 @@
-> Xin chào! Mình tên là Trương Văn Hoàng. Mình đến từ Việt Nam. Và đây là trang GitHub cá nhân của mình.  \
-> Hello! My name is Truong Van Hoang. I'm from Vietnam. This is my personal GitHub page.  \
-> 你好！我叫张文煌。我来自越南。这是我的个人 GitHub 页面。 \
-> 你好！我叫張文煌。我來自越南。這是我的個人 GitHub 頁面。 \
-> こんにちは！私はチュオン・ヴァン・ホアンと申します。ベトナムから来ました。これは私の個人GitHubページです。
+> Xin chào! Mình tên là **Trương Văn Hoàng**. Mình đến từ **Việt Nam**. Và đây là trang GitHub cá nhân của mình.  \
+> Hello! My name is **Truong Van Hoang**. I'm from **Vietnam**. This is my personal GitHub page.  \
+> 你好！我叫**张文煌**。我来自**越南**。这是我的个人 GitHub 页面。 \
+> 你好！我叫**張文煌**。我來自**越南**。這是我的個人 GitHub 頁面。 \
+> こんにちは！私は**チュオン・ヴァン・ホアン**と申します。**ベトナム**から来ました。これは私の個人GitHubページです。
 
 
 

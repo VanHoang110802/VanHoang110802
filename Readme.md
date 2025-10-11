@@ -10,4 +10,6 @@
 <a href="https://codeforces.com/profile/hoangtvph31092" target="blank"><img align="center" src="https://github.com/VanHoang110802/linh_tinh/blob/main/code-forces.png" alt="hoangtvph31092" height="48" width="48" /></a>
 <a href="https://www.threads.com/@vanhoang11082002" target="blank"><img align="center" src="https://github.com/VanHoang110802/linh_tinh/blob/main/threads.png" alt="hoangtvph31092" height="48" width="48" /></a>
 <a href="https://github.com/VanHoang110802/linh_tinh/blob/main/a150f301a26a2f34767b.jpg" target="blank"><img align="center" src="https://github.com/VanHoang110802/linh_tinh/blob/main/zalo.png" alt="hoangtvph31092" height="48" width="48" /></a>
+<a href="https://www.tiktok.com/@vanhoang0802" target="blank"><img align="center" src="https://github.com/VanHoang110802/linh_tinh/blob/main/tiktok.png" alt="hoangtvph31092" height="48" width="48" /></a>
+
 </p>

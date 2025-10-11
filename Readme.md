@@ -9,5 +9,5 @@
 <a href="https://instagram.com/vanhoang11082002" target="blank"><img align="center" src="https://github.com/VanHoang110802/linh_tinh/blob/main/instagram.png" alt="vanhoang11082002" height="48" width="48" /></a>
 <a href="https://codeforces.com/profile/hoangtvph31092" target="blank"><img align="center" src="https://github.com/VanHoang110802/linh_tinh/blob/main/code-forces.png" alt="hoangtvph31092" height="48" width="48" /></a>
 <a href="https://www.threads.com/@vanhoang11082002" target="blank"><img align="center" src="https://github.com/VanHoang110802/linh_tinh/blob/main/threads.png" alt="hoangtvph31092" height="48" width="48" /></a>
-<a href="https://github.com/VanHoang110802/linh_tinh/blob/main/README.md" target="blank"><img align="center" src="https://github.com/VanHoang110802/linh_tinh/blob/main/zalo.png" alt="hoangtvph31092" height="48" width="48" /></a>
+<a href="https://github.com/VanHoang110802/linh_tinh/blob/main/a150f301a26a2f34767b.jpg" target="blank"><img align="center" src="https://github.com/VanHoang110802/linh_tinh/blob/main/zalo.png" alt="hoangtvph31092" height="48" width="48" /></a>
 </p>
